@@ -396,14 +396,13 @@
         "version": 0,
         "customOverlays": true,
         "icons": {
-            "ic_mic_neutral": "#102b47",
-            "ic_mic_muted_neutral": "#102b47",
-            "ic_soundboard":"#102b47",
-            "ic_soundboard_muted": "#102b47",
-            "ic_video": "#102b47",
-            "ic_video_disabled": "#102b47"
+            "ic_mic_neutral": "#ab6158",
+            "ic_mic_muted_neutral": "#ab6158",
+            "ic_soundboard":"#ab6158",
+            "ic_soundboard_muted": "#ab6158",
+            "ic_video": "#ab6158",
+            "ic_video_disabled": "#ab6158"
         },
-        "iconpack":"rosiecord-plumpy"
+        "iconpack":"rosiecord-iconsax"
     },
     "spec": 2
-            }
