@@ -389,7 +389,7 @@
         "WHITE_500": "#ffede9",
         "YELLOW_300": "#d7992173"
     },
-    "background": {
+        "background": {
         "url": "https://i.imgur.com/pgEkDDR.gif"
     },
     "plus": {
@@ -406,3 +406,4 @@
         "iconpack":"rosiecord-iconsax"
     },
     "spec": 2
+            }
